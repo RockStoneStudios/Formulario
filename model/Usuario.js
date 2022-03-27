@@ -15,10 +15,7 @@ const usuarioSchema = new Schema({
          type : Number,
          required : true
      },
-     cumpleaños : {
-         type : Date,
-         required : true
-     },
+     
      telefono : {
          type : Number,
          required : true
